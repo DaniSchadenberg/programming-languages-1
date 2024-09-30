@@ -1,4 +1,4 @@
-package e03;
+package week_40.e03;
 
 import java.util.Scanner; // Import the Scanner class
 
